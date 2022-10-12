@@ -1,0 +1,16 @@
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\matei\repos\HIT\Server\bin\Release\Server.exe.config
+C:\Users\matei\repos\HIT\Server\bin\Release\Server.exe
+C:\Users\matei\repos\HIT\Server\bin\Release\Server.pdb
+C:\Users\matei\repos\HIT\Server\bin\Release\Common.dll
+C:\Users\matei\repos\HIT\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\matei\repos\HIT\Server\bin\Release\SimpleTCP.dll
+C:\Users\matei\repos\HIT\Server\bin\Release\Common.pdb
+C:\Users\matei\repos\HIT\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.exe
+C:\Users\matei\repos\HIT\Server\obj\Release\Server.pdb

@@ -1,0 +1,1400 @@
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=0
+@8[DEBUG] President index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist Policy index i=0, index=16
+@8[DEBUG] Fascist Policy index i=1, index=16
+@8[DEBUG] Fascist Policy index i=1, index=16
+@8[DEBUG] Fascist Policy index i=1, index=16
+@8[DEBUG] Fascist Policy index i=1, index=16
+@8[DEBUG] Fascist Policy index i=1, index=16
+@8[DEBUG] Fascist Policy index i=1, index=5
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=2, index=11
+@8[DEBUG] Fascist Policy index i=3, index=11
+@8[DEBUG] Fascist Policy index i=3, index=11
+@8[DEBUG] Fascist Policy index i=3, index=11
+@8[DEBUG] Fascist Policy index i=3, index=11
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=4, index=8
+@8[DEBUG] Fascist Policy index i=4, index=8
+@8[DEBUG] Fascist Policy index i=4, index=8
+@8[DEBUG] Fascist Policy index i=4, index=8
+@8[DEBUG] Fascist Policy index i=4, index=8
+@8[DEBUG] Fascist Policy index i=4, index=8
+@8[DEBUG] Fascist Policy index i=4, index=15
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=5, index=3
+@8[DEBUG] Fascist Policy index i=6, index=3
+@8[DEBUG] Fascist Policy index i=6, index=3
+@8[DEBUG] Fascist Policy index i=6, index=3
+@8[DEBUG] Fascist Policy index i=6, index=3
+@8[DEBUG] Fascist Policy index i=6, index=3
+@8[DEBUG] Fascist Policy index i=6, index=3
+@8[DEBUG] Fascist Policy index i=6, index=0
+@8[DEBUG] Fascist Policy index i=7, index=0
+@8[DEBUG] Fascist Policy index i=7, index=0
+@8[DEBUG] Fascist Policy index i=7, index=0
+@8[DEBUG] Fascist Policy index i=7, index=0
+@8[DEBUG] Fascist Policy index i=7, index=0
+@8[DEBUG] Fascist Policy index i=7, index=0
+@8[DEBUG] Fascist Policy index i=7, index=6
+@8[DEBUG] Fascist Policy index i=8, index=6
+@8[DEBUG] Fascist Policy index i=8, index=6
+@8[DEBUG] Fascist Policy index i=8, index=6
+@8[DEBUG] Fascist Policy index i=8, index=6
+@8[DEBUG] Fascist Policy index i=8, index=6
+@8[DEBUG] Fascist Policy index i=8, index=6
+@8[DEBUG] Fascist Policy index i=8, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=10
+@8[DEBUG] Fascist Policy index i=10, index=10
+@8[DEBUG] Fascist Policy index i=10, index=10
+@8[DEBUG] Fascist Policy index i=10, index=10
+@8[DEBUG] Fascist Policy index i=10, index=10
+@8[DEBUG] Fascist Policy index i=10, index=10
+@8[DEBUG] Fascist Policy index i=10, index=16
+@8[DEBUG] Fascist Policy index i=10, index=16
+@8[DEBUG] Fascist Policy index i=10, index=16
+@8[DEBUG] Fascist Policy index i=10, index=16
+@8[DEBUG] Fascist Policy index i=10, index=16
+@8[DEBUG] Fascist Policy index i=10, index=16
+@8[DEBUG] Fascist Policy index i=10, index=16
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] @7f0X @3f0X1 
+@8[DEBUG] @3Policy @9Policy @9Policy @3Policy @3Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @9Policy @9Policy @3Policy @3Policy @3Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@8[DEBUG] Giving fascists 15 points and liberals 10 points.
+@8[DEBUG] Giving fascists 15 points and liberals 10 points.
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=1
+@8[DEBUG] President index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist Policy index i=0, index=0
+@8[DEBUG] Fascist Policy index i=1, index=0
+@8[DEBUG] Fascist Policy index i=1, index=0
+@8[DEBUG] Fascist Policy index i=1, index=0
+@8[DEBUG] Fascist Policy index i=1, index=0
+@8[DEBUG] Fascist Policy index i=1, index=0
+@8[DEBUG] Fascist Policy index i=1, index=0
+@8[DEBUG] Fascist Policy index i=1, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=3
+@8[DEBUG] Fascist Policy index i=3, index=3
+@8[DEBUG] Fascist Policy index i=3, index=3
+@8[DEBUG] Fascist Policy index i=3, index=3
+@8[DEBUG] Fascist Policy index i=3, index=3
+@8[DEBUG] Fascist Policy index i=3, index=10
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=17
+@8[DEBUG] Fascist Policy index i=8, index=17
+@8[DEBUG] Fascist Policy index i=8, index=17
+@8[DEBUG] Fascist Policy index i=8, index=17
+@8[DEBUG] Fascist Policy index i=8, index=17
+@8[DEBUG] Fascist Policy index i=8, index=17
+@8[DEBUG] Fascist Policy index i=8, index=17
+@8[DEBUG] Fascist Policy index i=8, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=9
+@8[DEBUG] @3f0X @7f0X1 
+@8[DEBUG] @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @9Policy @3Policy @3Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=0
+@8[DEBUG] President index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist Policy index i=0, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=12
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=3, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=4
+@8[DEBUG] Fascist Policy index i=6, index=4
+@8[DEBUG] Fascist Policy index i=6, index=4
+@8[DEBUG] Fascist Policy index i=6, index=4
+@8[DEBUG] Fascist Policy index i=6, index=4
+@8[DEBUG] Fascist Policy index i=6, index=4
+@8[DEBUG] Fascist Policy index i=6, index=11
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=7, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=14
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=9, index=11
+@8[DEBUG] Fascist Policy index i=9, index=11
+@8[DEBUG] Fascist Policy index i=9, index=11
+@8[DEBUG] Fascist Policy index i=9, index=11
+@8[DEBUG] Fascist Policy index i=9, index=11
+@8[DEBUG] Fascist Policy index i=9, index=0
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] Fascist Policy index i=10, index=3
+@8[DEBUG] @7f0X @3f0X1 
+@8[DEBUG] @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=1
+@8[DEBUG] President index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist Policy index i=0, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=2, index=9
+@8[DEBUG] Fascist Policy index i=2, index=9
+@8[DEBUG] Fascist Policy index i=2, index=9
+@8[DEBUG] Fascist Policy index i=2, index=9
+@8[DEBUG] Fascist Policy index i=2, index=9
+@8[DEBUG] Fascist Policy index i=2, index=9
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=7, index=5
+@8[DEBUG] Fascist Policy index i=7, index=5
+@8[DEBUG] Fascist Policy index i=7, index=5
+@8[DEBUG] Fascist Policy index i=7, index=5
+@8[DEBUG] Fascist Policy index i=7, index=5
+@8[DEBUG] Fascist Policy index i=7, index=5
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=8, index=2
+@8[DEBUG] Fascist Policy index i=8, index=2
+@8[DEBUG] Fascist Policy index i=8, index=2
+@8[DEBUG] Fascist Policy index i=8, index=2
+@8[DEBUG] Fascist Policy index i=8, index=2
+@8[DEBUG] Fascist Policy index i=8, index=2
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=9, index=8
+@8[DEBUG] Fascist Policy index i=9, index=8
+@8[DEBUG] Fascist Policy index i=9, index=8
+@8[DEBUG] Fascist Policy index i=9, index=8
+@8[DEBUG] Fascist Policy index i=9, index=8
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] @3f0X @7f0X1 
+@8[DEBUG] @9Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=1
+@8[DEBUG] President index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist Policy index i=0, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=3
+@8[DEBUG] Fascist Policy index i=1, index=0
+@8[DEBUG] Fascist Policy index i=2, index=0
+@8[DEBUG] Fascist Policy index i=2, index=0
+@8[DEBUG] Fascist Policy index i=2, index=0
+@8[DEBUG] Fascist Policy index i=2, index=0
+@8[DEBUG] Fascist Policy index i=2, index=0
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=6
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=13
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=10
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=16
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] Fascist Policy index i=10, index=15
+@8[DEBUG] @3f0X @7f0X1 
+@8[DEBUG] @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=1
+@8[DEBUG] President index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist Policy index i=0, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=9
+@8[DEBUG] Fascist Policy index i=5, index=9
+@8[DEBUG] Fascist Policy index i=5, index=9
+@8[DEBUG] Fascist Policy index i=5, index=9
+@8[DEBUG] Fascist Policy index i=5, index=9
+@8[DEBUG] Fascist Policy index i=5, index=9
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=12
+@8[DEBUG] Fascist Policy index i=6, index=12
+@8[DEBUG] Fascist Policy index i=6, index=12
+@8[DEBUG] Fascist Policy index i=6, index=12
+@8[DEBUG] Fascist Policy index i=6, index=12
+@8[DEBUG] Fascist Policy index i=6, index=12
+@8[DEBUG] Fascist Policy index i=6, index=1
+@8[DEBUG] Fascist Policy index i=7, index=1
+@8[DEBUG] Fascist Policy index i=7, index=1
+@8[DEBUG] Fascist Policy index i=7, index=1
+@8[DEBUG] Fascist Policy index i=7, index=1
+@8[DEBUG] Fascist Policy index i=7, index=7
+@8[DEBUG] Fascist Policy index i=8, index=7
+@8[DEBUG] Fascist Policy index i=8, index=7
+@8[DEBUG] Fascist Policy index i=8, index=7
+@8[DEBUG] Fascist Policy index i=8, index=7
+@8[DEBUG] Fascist Policy index i=8, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=4
+@8[DEBUG] Fascist Policy index i=9, index=11
+@8[DEBUG] Fascist Policy index i=10, index=11
+@8[DEBUG] Fascist Policy index i=10, index=11
+@8[DEBUG] Fascist Policy index i=10, index=11
+@8[DEBUG] Fascist Policy index i=10, index=17
+@8[DEBUG] Fascist Policy index i=10, index=17
+@8[DEBUG] Fascist Policy index i=10, index=17
+@8[DEBUG] Fascist Policy index i=10, index=17
+@8[DEBUG] Fascist Policy index i=10, index=17
+@8[DEBUG] Fascist Policy index i=10, index=17
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] @3f0X @7f0X1 
+@8[DEBUG] @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=0
+@8[DEBUG] President index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist Policy index i=0, index=11
+@8[DEBUG] Fascist Policy index i=1, index=11
+@8[DEBUG] Fascist Policy index i=1, index=11
+@8[DEBUG] Fascist Policy index i=1, index=11
+@8[DEBUG] Fascist Policy index i=1, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=17
+@8[DEBUG] Fascist Policy index i=2, index=14
+@8[DEBUG] Fascist Policy index i=3, index=14
+@8[DEBUG] Fascist Policy index i=3, index=14
+@8[DEBUG] Fascist Policy index i=3, index=14
+@8[DEBUG] Fascist Policy index i=3, index=14
+@8[DEBUG] Fascist Policy index i=3, index=14
+@8[DEBUG] Fascist Policy index i=3, index=14
+@8[DEBUG] Fascist Policy index i=3, index=3
+@8[DEBUG] Fascist Policy index i=4, index=3
+@8[DEBUG] Fascist Policy index i=4, index=3
+@8[DEBUG] Fascist Policy index i=4, index=3
+@8[DEBUG] Fascist Policy index i=4, index=3
+@8[DEBUG] Fascist Policy index i=4, index=3
+@8[DEBUG] Fascist Policy index i=4, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=6
+@8[DEBUG] Fascist Policy index i=6, index=6
+@8[DEBUG] Fascist Policy index i=6, index=6
+@8[DEBUG] Fascist Policy index i=6, index=6
+@8[DEBUG] Fascist Policy index i=6, index=6
+@8[DEBUG] Fascist Policy index i=6, index=6
+@8[DEBUG] Fascist Policy index i=6, index=6
+@8[DEBUG] Fascist Policy index i=6, index=13
+@8[DEBUG] Fascist Policy index i=7, index=13
+@8[DEBUG] Fascist Policy index i=7, index=13
+@8[DEBUG] Fascist Policy index i=7, index=13
+@8[DEBUG] Fascist Policy index i=7, index=13
+@8[DEBUG] Fascist Policy index i=7, index=13
+@8[DEBUG] Fascist Policy index i=7, index=13
+@8[DEBUG] Fascist Policy index i=7, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=16
+@8[DEBUG] Fascist Policy index i=9, index=16
+@8[DEBUG] Fascist Policy index i=9, index=16
+@8[DEBUG] Fascist Policy index i=9, index=16
+@8[DEBUG] Fascist Policy index i=9, index=16
+@8[DEBUG] Fascist Policy index i=9, index=16
+@8[DEBUG] Fascist Policy index i=9, index=16
+@8[DEBUG] Fascist Policy index i=9, index=5
+@8[DEBUG] Fascist Policy index i=10, index=5
+@8[DEBUG] Fascist Policy index i=10, index=5
+@8[DEBUG] Fascist Policy index i=10, index=5
+@8[DEBUG] Fascist Policy index i=10, index=5
+@8[DEBUG] Fascist Policy index i=10, index=5
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] @7f0X @3f0X1 
+@8[DEBUG] @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @9Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=1
+@8[DEBUG] President index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist Policy index i=0, index=5
+@8[DEBUG] Fascist Policy index i=1, index=5
+@8[DEBUG] Fascist Policy index i=1, index=5
+@8[DEBUG] Fascist Policy index i=1, index=5
+@8[DEBUG] Fascist Policy index i=1, index=5
+@8[DEBUG] Fascist Policy index i=1, index=5
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=2, index=2
+@8[DEBUG] Fascist Policy index i=2, index=2
+@8[DEBUG] Fascist Policy index i=2, index=2
+@8[DEBUG] Fascist Policy index i=2, index=2
+@8[DEBUG] Fascist Policy index i=2, index=2
+@8[DEBUG] Fascist Policy index i=2, index=2
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=3, index=8
+@8[DEBUG] Fascist Policy index i=3, index=15
+@8[DEBUG] Fascist Policy index i=4, index=15
+@8[DEBUG] Fascist Policy index i=4, index=15
+@8[DEBUG] Fascist Policy index i=4, index=15
+@8[DEBUG] Fascist Policy index i=4, index=15
+@8[DEBUG] Fascist Policy index i=4, index=15
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=5, index=12
+@8[DEBUG] Fascist Policy index i=5, index=12
+@8[DEBUG] Fascist Policy index i=5, index=12
+@8[DEBUG] Fascist Policy index i=5, index=12
+@8[DEBUG] Fascist Policy index i=5, index=12
+@8[DEBUG] Fascist Policy index i=5, index=12
+@8[DEBUG] Fascist Policy index i=5, index=12
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=6, index=0
+@8[DEBUG] Fascist Policy index i=6, index=0
+@8[DEBUG] Fascist Policy index i=6, index=0
+@8[DEBUG] Fascist Policy index i=6, index=0
+@8[DEBUG] Fascist Policy index i=6, index=0
+@8[DEBUG] Fascist Policy index i=6, index=0
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=10
+@8[DEBUG] Fascist Policy index i=8, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] Fascist Policy index i=10, index=17
+@8[DEBUG] @3f0X @7f0X1 
+@8[DEBUG] @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@6Player '@3f0X@6' left the server. (@11@6/10)
+@6Player '@1f0X1@6' left the server. (@10@6/10)
+@8[DEBUG] Finishing Game...
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=0
+@8[DEBUG] President index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist Policy index i=0, index=10
+@8[DEBUG] Fascist Policy index i=1, index=10
+@8[DEBUG] Fascist Policy index i=1, index=10
+@8[DEBUG] Fascist Policy index i=1, index=10
+@8[DEBUG] Fascist Policy index i=1, index=10
+@8[DEBUG] Fascist Policy index i=1, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=7
+@8[DEBUG] Fascist Policy index i=2, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=2
+@8[DEBUG] Fascist Policy index i=4, index=2
+@8[DEBUG] Fascist Policy index i=4, index=2
+@8[DEBUG] Fascist Policy index i=4, index=2
+@8[DEBUG] Fascist Policy index i=4, index=2
+@8[DEBUG] Fascist Policy index i=4, index=17
+@8[DEBUG] Fascist Policy index i=5, index=17
+@8[DEBUG] Fascist Policy index i=5, index=17
+@8[DEBUG] Fascist Policy index i=5, index=17
+@8[DEBUG] Fascist Policy index i=5, index=17
+@8[DEBUG] Fascist Policy index i=5, index=17
+@8[DEBUG] Fascist Policy index i=5, index=17
+@8[DEBUG] Fascist Policy index i=5, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=6, index=9
+@8[DEBUG] Fascist Policy index i=7, index=9
+@8[DEBUG] Fascist Policy index i=7, index=9
+@8[DEBUG] Fascist Policy index i=7, index=9
+@8[DEBUG] Fascist Policy index i=7, index=9
+@8[DEBUG] Fascist Policy index i=7, index=9
+@8[DEBUG] Fascist Policy index i=7, index=9
+@8[DEBUG] Fascist Policy index i=7, index=15
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=8, index=12
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=9, index=1
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=7
+@8[DEBUG] Fascist Policy index i=10, index=4
+@8[DEBUG] @7f0X @3f0X1 
+@8[DEBUG] @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @9Policy @3Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=1
+@8[DEBUG] President index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist Policy index i=0, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=1, index=8
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=5
+@8[DEBUG] Fascist Policy index i=3, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=12
+@8[DEBUG] Fascist Policy index i=4, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=0
+@8[DEBUG] Fascist Policy index i=5, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=15
+@8[DEBUG] Fascist Policy index i=6, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=4
+@8[DEBUG] Fascist Policy index i=7, index=1
+@8[DEBUG] Fascist Policy index i=8, index=1
+@8[DEBUG] Fascist Policy index i=8, index=1
+@8[DEBUG] Fascist Policy index i=8, index=1
+@8[DEBUG] Fascist Policy index i=8, index=1
+@8[DEBUG] Fascist Policy index i=8, index=1
+@8[DEBUG] Fascist Policy index i=8, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=9, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=14
+@8[DEBUG] Fascist Policy index i=10, index=11
+@8[DEBUG] @3f0X @7f0X1 
+@8[DEBUG] @3Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@6Player '@1f0X1@6' left the server. (@11@6/10)
+@6Player '@3f0X@6' left the server. (@10@6/10)
+@8[DEBUG] Finishing Game...
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@3f0X@6' left the server. (@10@6/10)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@6Player '@1f0X1@6' joined the server. (@12@6/10)
+@9Player '@1f0X1@9' is now ready. (@12@9/@12@9)
+@8Every player is ready. Starting the game in a few seconds! (@12 @8players)
+@8[DEBUG] Hitler index=0
+@8[DEBUG] President index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=0
+@8[DEBUG] Fascist index i=0, index=1
+@8[DEBUG] Fascist Policy index i=0, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=9
+@8[DEBUG] Fascist Policy index i=1, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=2, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=13
+@8[DEBUG] Fascist Policy index i=3, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=1
+@8[DEBUG] Fascist Policy index i=4, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=16
+@8[DEBUG] Fascist Policy index i=5, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=5
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=2
+@8[DEBUG] Fascist Policy index i=7, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=8
+@8[DEBUG] Fascist Policy index i=8, index=15
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=9, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] Fascist Policy index i=10, index=0
+@8[DEBUG] @7f0X @3f0X1 
+@8[DEBUG] @3Policy @3Policy @3Policy @9Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@12 @6players)
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@8Every player is ready. Starting the game in a few seconds! (@11 @8players)
+@8[DEBUG] Hitler index=0
+@8[DEBUG] President index=0
+@8[DEBUG] Fascist Policy index i=0, index=8
+@8[DEBUG] Fascist Policy index i=1, index=2
+@8[DEBUG] Fascist Policy index i=2, index=6
+@8[DEBUG] Fascist Policy index i=3, index=14
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=5, index=3
+@8[DEBUG] Fascist Policy index i=6, index=14
+@8[DEBUG] Fascist Policy index i=6, index=12
+@8[DEBUG] Fascist Policy index i=7, index=11
+@8[DEBUG] Fascist Policy index i=8, index=0
+@8[DEBUG] Fascist Policy index i=9, index=6
+@8[DEBUG] Fascist Policy index i=9, index=10
+@8[DEBUG] Fascist Policy index i=9, index=0
+@8[DEBUG] Fascist Policy index i=9, index=6
+@8[DEBUG] Fascist Policy index i=9, index=15
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] Fascist Policy index i=10, index=11
+@8[DEBUG] Fascist Policy index i=10, index=11
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] @7f0X 
+@8[DEBUG] @3Policy @3Policy @3Policy @3Policy @9Policy @9Policy @3Policy @9Policy @3Policy @9Policy @3Policy @3Policy @3Policy @9Policy @3Policy @3Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@11 @6players)
+@6Player '@3f0X@6' left the server. (@10@6/10)
+@8[DEBUG] Finishing game...@7****            SECRET HITLER               ****
+@3                    by F0X                      
+@6                  v0.1 (Alpha)                       
+
+@8              SEH = Secret Hitler                 
+
+@5Parsing config file...
+@8IP: "AUTO"
+@8Port: "6666"
+@8Password: "0"
+@8Gamemode: "CLASIC"
+@8Admins: "[
+  "f0X"
+]"
+@8MaxPlayers: "10"
+@8DebugMode: "true"
+@8MOTD: "Welcome to my SEH Server!"
+
+
+@7****                                        ****
+
+@9SEH Server started on IP 192.168.0.107 (port 6666)
+@6Player '@3f0X@6' joined the server. (@11@6/10)
+@9Player '@1f0X@9' is now ready. (@11@9/@11@9)
+@8Every player is ready. Starting the game in a few seconds! (@11 @8players)
+@8[DEBUG] Hitler index=0
+@8[DEBUG] President index=0
+@8[DEBUG] Fascist Policy index i=0, index=8
+@8[DEBUG] Fascist Policy index i=1, index=8
+@8[DEBUG] Fascist Policy index i=1, index=4
+@8[DEBUG] Fascist Policy index i=2, index=8
+@8[DEBUG] Fascist Policy index i=2, index=4
+@8[DEBUG] Fascist Policy index i=2, index=5
+@8[DEBUG] Fascist Policy index i=3, index=10
+@8[DEBUG] Fascist Policy index i=4, index=5
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=10
+@8[DEBUG] Fascist Policy index i=4, index=5
+@8[DEBUG] Fascist Policy index i=4, index=9
+@8[DEBUG] Fascist Policy index i=5, index=11
+@8[DEBUG] Fascist Policy index i=6, index=2
+@8[DEBUG] Fascist Policy index i=7, index=6
+@8[DEBUG] Fascist Policy index i=8, index=1
+@8[DEBUG] Fascist Policy index i=9, index=7
+@8[DEBUG] Fascist Policy index i=10, index=8
+@8[DEBUG] Fascist Policy index i=10, index=8
+@8[DEBUG] Fascist Policy index i=10, index=1
+@8[DEBUG] Fascist Policy index i=10, index=5
+@8[DEBUG] Fascist Policy index i=10, index=4
+@8[DEBUG] Fascist Policy index i=10, index=10
+@8[DEBUG] Fascist Policy index i=10, index=2
+@8[DEBUG] Fascist Policy index i=10, index=12
+@8[DEBUG] @7f0X 
+@8[DEBUG] @9Policy @3Policy @3Policy @9Policy @3Policy @3Policy @3Policy @3Policy @3Policy @3Policy @3Policy @3Policy @3Policy @9Policy @9Policy @9Policy @9Policy 
+@6Everything is ready! Preparing the players to join the game... (@11 @6players)
+@6Player '@3f0X@6' left the server. (@10@6/10)
+@8[DEBUG] Finishing game...

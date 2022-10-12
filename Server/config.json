@@ -1,0 +1,9 @@
+﻿{
+  "IP":             "AUTO",                     // "AUTO" means the server automatically sets the IP.
+  "Port":           6666,                       // 6666 is the default server port.
+  "Password":       "0",                        // "0" means the server has no password.
+  "Gamemode":       "CLASIC",                   // Available gamemodes: CLASIC.
+  "Admins":         [ "f0X" ],                  // These players will be allowed to use commands during the game.
+  "MaxPlayers":     10,                         // MAX PLAYERS: 10.
+  "MOTD":           "Welcome to my SEH Server!" // Message Of The Day.
+}

@@ -1,0 +1,8 @@
+C:\Users\matei\repos\HIT\Common\bin\Debug\Common.pdb
+C:\Users\matei\repos\HIT\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\matei\repos\HIT\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\matei\repos\HIT\Common\obj\Debug\Common.dll
+C:\Users\matei\repos\HIT\Common\obj\Debug\Common.pdb
+C:\Users\matei\repos\HIT\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\matei\repos\HIT\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matei\repos\HIT\Common\bin\Debug\Newtonsoft.Json.xml
